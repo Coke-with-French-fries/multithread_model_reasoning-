@@ -3,31 +3,15 @@
 #### 介绍
 通过多线程并行部署onnx深度学习模型进行图像识别
 
-#### 软件架构
-软件架构说明
+#### 算法流程
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
+![输入图片说明](%E5%A4%9A%E7%BA%BF%E7%A8%8Bonnx.jpg)
+![输入图片说明](%E6%B5%81%E7%A8%8B%E5%9B%BE%E5%A4%9A%E7%BA%BF%E7%A8%8Bonnx.jpg)
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
+1.  test.py是加载了多线程处理的代码
+2.  main.py是单线程模型加载代码
+3.  可以根据自己主控核心数量增加线程数
 
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
 2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
