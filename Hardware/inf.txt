@@ -1,0 +1,2 @@
+person_sum = 10
+active_person = 1
